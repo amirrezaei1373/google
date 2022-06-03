@@ -1,0 +1,64 @@
+body{
+    background-color: #425c81;
+    text-align: center;
+}
+.image{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.homes2{
+    display: inline;
+    padding-right: 30px;
+    border-radius:10px 10px 10px 10px;
+    font-weight: bold;
+    background-color: #1A73EA;
+    color:whitesmoke;
+    border-width: medium;
+    color: white;
+    padding: 9px 24px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid #f0fff0;
+}
+.homes1{
+    text-align: right;
+    padding: 19px 104px;
+}
+.text,.text2,.text3{
+    text-align: left;
+    max-width: auto;
+    width:600px;
+    height: 20px;
+    border-radius: 10px;
+    padding: 7px 15px;
+    margin-bottom: 8px;
+    border-color: black;
+    border-width:2px;
+}
+.text4{
+    text-align: left;
+    max-width: auto;
+    width:600px;
+    height: 20px;
+    border-radius: 10px;
+    padding: 7px 15px;
+    margin-bottom: 8px;
+    border-color: black;
+    border-width:2px;
+    margin-bottom: 15px; 
+}
+.advclick{
+    display: inline;
+    border-radius:10px 10px 10px 10px;
+    font-weight: bold;
+    background-color: #1A73EA;
+    color: white;
+    border-width: thin;
+    padding: 9px 24px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
